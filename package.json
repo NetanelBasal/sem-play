@@ -15,6 +15,10 @@
     "semantic-release-cli": "^3.6.3",
     "travis-deploy-once": "^4.4.0"
   },
+  "release": {
+    "verifyConditions": ["@semantic-release/changelog", "@semantic-release/npm", "@semantic-release/git"],
+    "prepare": ["@semantic-release/changelog", "@semantic-release/npm", "@semantic-release/git"]
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/NetanelBasal/sem-play.git"
@@ -25,6 +29,9 @@
     }
   },
   "dependencies": {
+    "@semantic-release/changelog": "^2.0.1",
+    "@semantic-release/git": "^4.0.1",
+    "@semantic-release/npm": "^3.2.2",
     "commitizen": "^2.9.6",
     "cz-conventional-changelog": "^2.1.0",
     "jest": "^22.4.2"
