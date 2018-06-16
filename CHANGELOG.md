@@ -1,3 +1,16 @@
+<a name="1.3.0"></a>
+# [1.3.0](https://github.com/NetanelBasal/sem-play/compare/v1.2.0...v1.3.0) (2018-06-16)
+
+
+### Bug Fixes
+
+* **functions:** fix a bug in function 22 ([480aa15](https://github.com/NetanelBasal/sem-play/commit/480aa15))
+
+
+### Features
+
+* **func:** add new function ([6f08184](https://github.com/NetanelBasal/sem-play/commit/6f08184)), closes [#1](https://github.com/NetanelBasal/sem-play/issues/1)
+
 <a name="1.2.0"></a>
 # [1.2.0](https://github.com/NetanelBasal/sem-play/compare/v1.1.0...v1.2.0) (2018-03-22)
 
