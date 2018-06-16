@@ -1,3 +1,11 @@
+<a name="1.3.1"></a>
+## [1.3.1](https://github.com/NetanelBasal/sem-play/compare/v1.3.0...v1.3.1) (2018-06-16)
+
+
+### Bug Fixes
+
+* **func:** fix the problem with `test3()` ([e563527](https://github.com/NetanelBasal/sem-play/commit/e563527))
+
 <a name="1.3.0"></a>
 # [1.3.0](https://github.com/NetanelBasal/sem-play/compare/v1.2.0...v1.3.0) (2018-06-16)
 
