@@ -5,3 +5,7 @@ export function test() {
 export function test2() {
   console.log(222);
 }
+
+export function test3() {
+  console.log(333);
+}
