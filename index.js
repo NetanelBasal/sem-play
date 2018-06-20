@@ -7,5 +7,6 @@ export function test2() {
 }
 
 export function test3() {
-  console.log(333333344);
+  console.log('new');
+  console.log(33333334444);
 }
