@@ -7,6 +7,6 @@ export function test2() {
 }
 
 export function test3() {
-  console.log('dont include');
+  console.log('dont include333');
   console.log(33333334444);
 }
