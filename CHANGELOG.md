@@ -1,3 +1,11 @@
+<a name="1.4.0"></a>
+# [1.4.0](https://github.com/NetanelBasal/sem-play/compare/v1.3.1...v1.4.0) (2018-06-21)
+
+
+### Features
+
+* **test:** add test ([4a6edd1](https://github.com/NetanelBasal/sem-play/commit/4a6edd1))
+
 <a name="1.3.1"></a>
 ## [1.3.1](https://github.com/NetanelBasal/sem-play/compare/v1.3.0...v1.3.1) (2018-06-16)
 
