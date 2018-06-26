@@ -1,3 +1,19 @@
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/NetanelBasal/sem-play/compare/v1.5.0...v2.0.0) (2018-06-26)
+
+
+### Features
+
+* **pencil:** remove option ([474766d](https://github.com/NetanelBasal/sem-play/commit/474766d))
+
+
+### BREAKING CHANGES
+
+* **pencil:** The graphiteWidth option has been removed. The default graphite width of 10mm is
+always used for performance reason.
+* **pencil:** The graphiteWidth option has been removed. The default graphite width of 10mm is
+always used for performance reason.
+
 <a name="1.5.0"></a>
 # [1.5.0](https://github.com/NetanelBasal/sem-play/compare/v1.4.0...v1.5.0) (2018-06-26)
 
