@@ -7,6 +7,6 @@ export function test2() {
 }
 
 export function test3() {
-  console.log('dssdd');
+  console.log('dss33dd');
   console.log(33333334444);
 }
