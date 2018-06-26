@@ -1,3 +1,16 @@
+<a name="3.0.0"></a>
+# [3.0.0](https://github.com/NetanelBasal/sem-play/compare/v2.0.0...v3.0.0) (2018-06-26)
+
+
+### Features
+
+* **pencil:** bla ([d5a8525](https://github.com/NetanelBasal/sem-play/commit/d5a8525))
+
+
+### BREAKING CHANGES
+
+* **pencil:** isolate scope bindings definition has changed and
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/NetanelBasal/sem-play/compare/v1.5.0...v2.0.0) (2018-06-26)
 
