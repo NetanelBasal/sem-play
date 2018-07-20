@@ -1,6 +1,6 @@
 {
   "name": "sem-play",
-  "version": "3.0.0",
+  "version": "5.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -14,6 +14,10 @@
     "semantic-release": "^15.0.2",
     "semantic-release-cli": "^3.6.3",
     "travis-deploy-once": "^4.4.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "tag": "rc.1"
   },
   "release": {
     "verifyConditions": [
